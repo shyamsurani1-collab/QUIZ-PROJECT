@@ -1,0 +1,18 @@
+.wrapper{
+    background-color:azure ;
+    height: 100vh;
+    padding: 1rem;
+    display: flex;
+    gap: 20px;
+}
+
+section{
+    align-self: end;
+    background-color: red;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32px;
+    font-weight: bolder;
+    padding: 10px;
+    
+}
