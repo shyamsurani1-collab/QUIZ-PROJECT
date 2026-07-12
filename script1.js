@@ -132,6 +132,7 @@ function getData(index) {
                 </aside>
 
                 <aside>
+                console.log
                     <input type="radio" name="answer">
                     <label>${quiz[index].options[2]}</label>
                 </aside>
